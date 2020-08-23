@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://hime2k.me`,
     description: `not too much fun`,
     hero: {
-      heading: `Annyeoug.`,
+      heading: `Annyeong.`,
       maxWidth: 652,
     },
     social: [
