@@ -19,11 +19,11 @@ module.exports = {
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/hime2k`,
+        url: `https://instagram.com/hime_2k`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/hime2k`,
+        url: `https://www.linkedin.com/in/rupa-ghi`,
       },
       
     ],
