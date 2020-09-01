@@ -6,7 +6,7 @@ module.exports = {
     description: `not too much fun`,
     hero: {
       heading: `Annyeong.`,
-      maxWidth: 652,
+      maxWidth: 653,
     },
     social: [
       {

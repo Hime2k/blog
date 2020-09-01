@@ -11,7 +11,7 @@ function NotFoundPage() {
       <SEO />
       <Section>
         <div style={{ marginTop: "100px" }}>
-          <Headings.h1> mianhae
+          <Headings.h1> mianhae,
             Patience is not simply the ability to wait ,it's how we beahve while we're waiting. ~Joyce Meyer
       
           </Headings.h1>
